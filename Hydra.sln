@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hydra", "Hydra\Hydra.csproj", "{C216F506-2858-415F-BE62-293B12F52117}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C216F506-2858-415F-BE62-293B12F52117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C216F506-2858-415F-BE62-293B12F52117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C216F506-2858-415F-BE62-293B12F52117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C216F506-2858-415F-BE62-293B12F52117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{609E7BC4-7C6D-4C10-B07F-DE31D8437EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{609E7BC4-7C6D-4C10-B07F-DE31D8437EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{609E7BC4-7C6D-4C10-B07F-DE31D8437EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{609E7BC4-7C6D-4C10-B07F-DE31D8437EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
